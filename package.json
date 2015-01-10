@@ -1,5 +1,6 @@
 {
-  "name": "hapi",
+  "name": "hapi-v7",
+  "private": true,
   "description": "HTTP Server framework",
   "homepage": "http://hapijs.com",
   "version": "7.5.3",
